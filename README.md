@@ -3,7 +3,7 @@
 Para visualizarlo podes entrar al siguiente link:
 https://adviencychallenge.netlify.app/
 
-Este proyecto es un challenge de gonzalo pozzo que lo podes encontrar en el siguiente link
+Este proyecto es un challenge de Gonzalo Pozzo, lo podes encontrar en el siguiente link
 https://twitter.com/goncy/status/1466050967808401409
 
 ##  `npm install`
